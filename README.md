@@ -14,3 +14,7 @@
 - Visualized Data and Sentiment Analysis & Develop a dashboard for Steam Reviews
 <br>File name: Steam Review
 <br>Data: https://www.kaggle.com/datasets/andrewmvd/steam-reviews
+
+- Train Autism Toddler Dataset to create ML model
+<br>File name: Machine Learning Model
+<br>Data: https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers
